@@ -1,6 +1,8 @@
 # LuxeRide_pythonProject
 - Objective: online car rental platform using Python.
+
   The platform should provide the following functionalities:
+  
 - Customer functionalities:
 Car Availability: Customers can view the availability of cars for rental.
 Rental Requests: Customers can request cars for hourly, daily, or weekly
